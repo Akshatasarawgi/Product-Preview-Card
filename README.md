@@ -6,13 +6,13 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-![alt text](Screenshot1.png)
-![alt text](Screenshot2.png)
+<img width="745" alt="Screenshot1" src="https://github.com/user-attachments/assets/5c1d301c-465c-4b5a-b64f-1b9b22c14682" />
+<img width="228" alt="Screenshot2" src="https://github.com/user-attachments/assets/296bc546-76cb-4261-9fe5-6191a5a643a8" />
 
 ### Links
 
 - Solution URL: [https://github.com/Akshatasarawgi/Product-Preview-Card]
-- Live Site URL: [https://productprevw.netlify.app]
+- Live Site URL: [https://prodprev.netlify.app]
 
 ### Built with
 
